@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:18:39:31 +0530] "GET /NoteTaker/add_notes.jsp HTTP/1.1" 200 2462
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:18:39:31 +0530] "GET /NoteTaker/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:18:39:44 +0530] "GET /NoteTaker/all_notes.jsp HTTP/1.1" 200 1767
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:18:42:15 +0530] "GET /NoteTaker/all_notes.jsp HTTP/1.1" 200 1768
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:18:42:17 +0530] "GET /NoteTaker/all_notes.jsp HTTP/1.1" 200 1768
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:18:42:17 +0530] "GET /NoteTaker/all_notes.jsp HTTP/1.1" 200 1768
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:18:42:19 +0530] "GET /NoteTaker/all_notes.jsp HTTP/1.1" 200 1768
+0:0:0:0:0:0:0:1 - - [26/Aug/2023:18:42:36 +0530] "GET /NoteTaker/all_notes.jsp HTTP/1.1" 200 1779
